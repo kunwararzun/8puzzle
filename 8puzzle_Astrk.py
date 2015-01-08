@@ -1,5 +1,8 @@
 # 8 puzzle solution using A* Algorithm
-# Author : Arjun Kunwar 
+'''
+@Author : Arjun Kunwar 
+'''
+
 from heapq import *  #define a priority queue 
 import copy
 import time
